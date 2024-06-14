@@ -18,5 +18,8 @@
     "url": "https://github.com/marcaltmann/css-tools/issues"
   },
   "homepage": "https://github.com/marcaltmann/css-tools#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
 }
