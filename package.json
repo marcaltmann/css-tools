@@ -1,0 +1,22 @@
+{
+  "name": "css-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marcaltmann/css-tools.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Marc Altmann <marcaltmann@posteo.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcaltmann/css-tools/issues"
+  },
+  "homepage": "https://github.com/marcaltmann/css-tools#readme",
+  "description": ""
+}
